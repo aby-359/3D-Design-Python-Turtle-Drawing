@@ -1,6 +1,6 @@
 import turtle as t
 import colorsys
-
+t.title("3D Design")
 t.bgcolor('black')
 t.speed(0)
 t.pensize(2)
